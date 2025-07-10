@@ -1,6 +1,7 @@
 #CONTRIBUTING:
 1. VAISHALI CHARGUNDI(SESP)
  2. BAJRANG PATIL(SESP)
+ 3. Vaishnavi kenchi
 
 #ONLINE SHOPPING CONSOLE APPLICATION
 Online Shopping Console Application Overview A Java-based console application for an online shopping system with user authentication, product management, and order processing capabilities. Features User Features User registration and login
