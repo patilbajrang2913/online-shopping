@@ -95,4 +95,9 @@ Develop web interface
 Add product search and filtering
 
 
-    
+    out out:
+    <img width="328" height="624" alt="image" src="https://github.com/user-attachments/assets/98b023d0-fe48-43ab-977a-f5d7e7b5a5ff" />
+    <img width="634" height="673" alt="image" src="https://github.com/user-attachments/assets/cd3caf4c-6223-4b20-9b6c-57e1b01c3961" />
+    <img width="328" height="135" alt="image" src="https://github.com/user-attachments/assets/870e52cf-b65d-4a8f-96b4-9a407932dc98" />
+
+
