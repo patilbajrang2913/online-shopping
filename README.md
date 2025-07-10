@@ -100,4 +100,25 @@ Add product search and filtering
     <img width="634" height="673" alt="image" src="https://github.com/user-attachments/assets/cd3caf4c-6223-4b20-9b6c-57e1b01c3961" />
     <img width="328" height="135" alt="image" src="https://github.com/user-attachments/assets/870e52cf-b65d-4a8f-96b4-9a407932dc98" />
 
+Notes:
+The actual output will depend on your database content and which options you select
 
+Some menu options (like product browsing) will show empty/null results since those methods aren't fully implemented in the provided code
+
+The admin functionality assumes there's already an admin user in your database (you'd need to manually add one with role="admin")
+
+Error messages will appear if:
+
+You enter invalid credentials
+
+You try to register with an existing username
+
+You enter invalid input types
+
+To see the complete functionality, you would need to:
+
+Implement the missing methods (like browseProducts, manageProducts, etc.)
+
+Set up the complete database schema with all required tables
+
+Add some sample products and orders to the database
