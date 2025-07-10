@@ -1,4 +1,9 @@
+#Contributing:
+ 1. vaishali chargundi
+ 2. bajrang patil
+    
 # online-shopping
+
 
 Online Shopping Console Application
 Overview
@@ -89,7 +94,5 @@ Develop web interface
 
 Add product search and filtering
 
-#Contributing:
- 1. vaishali chargundi
- 2. bajrang patil
+
     
